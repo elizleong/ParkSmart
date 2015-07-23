@@ -6,12 +6,12 @@ h3 - light blue names on about page
 @CHARSET "UTF-8";
 
 @font-face {
-	font-family: 'bold font';
+	/*font-family: 'bold font';*/
 	font-family: 'Trebuchet MS';
 }
 
 @font-face {
-	font-family: 'med font';
+	/*font-family: 'med font';*/
 	font-family: 'Trebuchet MS';
 }
 
