@@ -51,7 +51,7 @@ Homepage/Introduction to the website! :)
 
 #intro {
 	letter-spacing: 4px;
-	font-family: 'bold font';
+	font-family: 'Trebuchet MS';
 	font-size: 60px;
 	line-height: 5%;
 }
@@ -76,7 +76,7 @@ Homepage/Introduction to the website! :)
 body {
 	background: #3b97d3;
 	color: #ededed;
-	font-family: 'bold font';
+	font-family: 'Trebuchet MS';
 	font-size: 65px;
 
 }
@@ -94,7 +94,7 @@ Main page of the site! :)
   
 
 h1 {
-	font-family: 'med font';
+	font-family: 'Trebuchet MS';
 	font-size: 25px;
 	letter-spacing: 1px;
 	padding: 10px 0px 15px 0px; 
@@ -155,14 +155,14 @@ Navigation container!
 div > p {
 margin: 5px 50px;
 color: #35495E;
-font-family: 'med font';
+font-family: 'Trebuchet MS';
 width: 500px;
 height: 500px;
 }
 
 .first {
 	color: #35495E;
-	font-family: 'bold font';
+	font-family: 'Trebuchet MS';
 	letter-spacing: 0px;
 	font-size: 30px;
 	width:40px;
