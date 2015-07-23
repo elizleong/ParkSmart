@@ -7,12 +7,12 @@ h3 - light blue names on about page
 
 @font-face {
 	font-family: 'bold font';
-	src: url(Trebuchet MS);
+	font-family: 'Trebuchet MS';
 }
 
 @font-face {
 	font-family: 'med font';
-	src: url(Trebuchet MS);
+	font-family: 'Trebuchet MS';
 }
 
 .logofront {
