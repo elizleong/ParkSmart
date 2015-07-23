@@ -212,7 +212,7 @@ body, html { font-size: 100%; 	padding: 0; margin: 0;}
 #pushOut{
 	border:none;
 	background:none;
-	font-family: 'bold font'
+	font-family: 'Trebuchet MS';
 	color:white;
 	float: right;
 	height:50px
@@ -415,7 +415,7 @@ main div {
 .names {
   display: flex;
   justify-content: center;
-  font-family: 'bold font';
+  font-family: 'Trebuchet MS';
 } 
 .names h3 {
   margin: 40px;
